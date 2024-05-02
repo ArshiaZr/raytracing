@@ -1,4 +1,4 @@
-# Ray Tracing Study Repository
+# Ray Tracing
 
 This repository is created solely for studying purposes. It is based on the concepts and papers from [raytracing.github.io](https://raytracing.github.io/).
 
@@ -6,10 +6,12 @@ This repository is created solely for studying purposes. It is based on the conc
 
 This project aims to implement various aspects of ray tracing based on the materials available at [raytracing.github.io](https://raytracing.github.io/). Currently, the implemented features include:
 
-- Hittable objects: Objects that rays can intersect with for rendering.
-- Camera object: Used for capturing scenes.
-- World structure: Contains hittable objects, currently represented as spheres.
-- Sphere object: A basic implementation for use in the ray tracing process.
+- Hittable objects
+- Camera object
+- World structure
+- Sphere object
+- Material
+- Diffuse Materials
 
 ## Usage
 
