@@ -11,7 +11,7 @@ SRCS = main.cpp
 OBJS = $(SRCS:.cpp=.o)
 
 # Executable name
-EXEC = ray
+EXEC = raytracer
 
 # Rule to build executable
 $(EXEC): $(OBJS)

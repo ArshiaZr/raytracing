@@ -6,6 +6,7 @@ a.out
 
 .DS_Store
 
-ray
 
-test.ppm
+*.ppm
+
+raytracer
